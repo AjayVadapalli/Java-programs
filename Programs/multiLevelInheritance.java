@@ -22,6 +22,5 @@ public class multiLevelInheritance{
         a.makeSound();
         d.makeSound();
         p.makeSound();
-        
     }
 }
