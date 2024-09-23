@@ -7,8 +7,8 @@ class Rectangle{
 		this.width = width;
 	}
 
-	void resizeRectangle(Rectangle rect,double newLength,double mewWidth){
+	void resizeRectangle(Rectangle rect,double newLength,double newWidth){
 		rect.length = newLength;
 		rect.width = newWidth;
-	
-	
+	}
+}

@@ -14,7 +14,7 @@ class Book{
 	}
 }
 
-public class Main{
+public class bookDetails{
 	public static void main(String[] args){
 		Book book = new Book("Effective Java","Joshua Block",45);
 		book.displayBookInfo(book);
