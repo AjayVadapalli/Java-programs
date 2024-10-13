@@ -10,7 +10,7 @@ class Book{
 	void displayBookInfo(Book book){
 		System.out.println("title name:"+book.title);
 		System.out.println("author name:"+book.author);
-		System.out.println("price:$"+book.price);
+		System.out.print("price:$"+book.price);
 	}
 }
 
